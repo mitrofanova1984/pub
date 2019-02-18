@@ -4399,6 +4399,10 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-rcq93oTrlN .mbr-gallery-item > div > span {
+  color: #ffffff;
+  text-align: right;
+}
 .cid-reFDRxSV47 .navbar {
   background: #ffffff;
   transition: none;
