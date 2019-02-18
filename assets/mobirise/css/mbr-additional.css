@@ -4786,7 +4786,7 @@ body {
   color: #767676 !important;
 }
 .cid-rcqmPTczpf {
-  padding-top: 75px;
+  padding-top: 135px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -4859,6 +4859,9 @@ body {
 .cid-rcqnwcqtyP .mbr-gallery-item > div > span {
   text-align: right;
   color: #232323;
+}
+.cid-rcqnwcqtyP .mbr-gallery-item > div > span B {
+  color: #465052;
 }
 .cid-reFDN6C3lr .navbar {
   background: #ffffff;
