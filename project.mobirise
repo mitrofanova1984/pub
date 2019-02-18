@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lana1725",
-    "currentPage": "artworks.html",
+    "currentPage": "illustration.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3677,7 +3677,7 @@
               "text-align": "right"
             },
             ".mbr-gallery-item > div > span B": {
-              "color": "#ffffff"
+              "color": "#c1c1c1"
             }
           },
           "_name": "gallery1",
