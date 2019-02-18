@@ -4855,6 +4855,10 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-rcqnwcqtyP .mbr-gallery-item > div > span {
+  text-align: right;
+  color: #232323;
+}
 .cid-reFDN6C3lr .navbar {
   background: #ffffff;
   transition: none;
