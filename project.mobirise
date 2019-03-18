@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lana1725",
-    "currentPage": "project.html",
+    "currentPage": "illustration.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -27,15 +27,13 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": [
-        "#554346"
-      ]
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 117,
-    "versionPublish": "4.8.3",
+    "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
