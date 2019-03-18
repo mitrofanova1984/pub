@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lana1725",
-    "currentPage": "project.html",
+    "currentPage": "exhibitionproject.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1115,7 +1115,7 @@
               }
             },
             ".mbr-gallery-item > div > span": {
-              "color": "#ff3366",
+              "color": "#232323",
               "text-align": "right"
             },
             ".mbr-gallery-item > div > span B": {
