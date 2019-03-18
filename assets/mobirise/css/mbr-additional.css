@@ -2250,7 +2250,7 @@ body {
   background: transparent !important;
 }
 .cid-reFnya9fSR .mbr-gallery-item > div:hover:before {
-  opacity: 0 !important;
+  opacity: 0.5 !important;
 }
 .cid-reFnya9fSR .mbr-gallery-title {
   font-size: .9em;
@@ -2271,9 +2271,16 @@ body {
   z-index: -1;
   position: absolute;
   background: #ffffff !important;
-  opacity: 0;
+  opacity: 0.5;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-reFnya9fSR .mbr-gallery-item > div > span {
+  color: #ff3366;
+  text-align: right;
+}
+.cid-reFnya9fSR .mbr-gallery-item > div > span B {
+  color: #232323;
 }
 .cid-reFD5xpsKe .navbar {
   background: #ffffff;
