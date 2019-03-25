@@ -1393,17 +1393,14 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #767676;
 }
-.cid-reL3HXqvUJ {
-  padding-top: 75px;
-  padding-bottom: 75px;
+.cid-rlJ2QLmTfZ {
+  padding-top: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-reL3HXqvUJ .mbr-section-subtitle {
-  text-align: left;
-  color: #232323;
-}
-.cid-reL3HXqvUJ .mbr-section-subtitle B {
+.cid-rlJ2QLmTfZ H1 {
   color: #767676;
+  text-align: left;
 }
 .cid-reFDZZ4PLj .navbar {
   background: #ffffff;
