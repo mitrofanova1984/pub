@@ -3969,14 +3969,19 @@ body {
 .cid-reFDDpoXH0 .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rhLyTDP6zt {
-  padding-top: 135px;
-  padding-bottom: 15px;
+.cid-rlJa5oDnpN {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
+.cid-rhLyTDP6zt {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
 .cid-rhLyTDP6zt H1 {
-  color: #767676;
-  text-align: left;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-reFDJ97rl4 .navbar {
   background: #ffffff;
