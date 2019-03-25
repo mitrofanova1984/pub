@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lana1725",
-    "currentPage": "about.html",
+    "currentPage": "theatre project.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1648,7 +1648,7 @@
             },
             "H1": {
               "color": "#767676",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "header2",
